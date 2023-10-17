@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=cons_Prac
+comment1.params=s_n\ sid
+comment1.target=stud(java.lang.String,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

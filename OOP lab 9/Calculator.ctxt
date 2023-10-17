@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=numerator\ denominator
+comment1.target=int\ divide(int,\ int)
+numComments=2

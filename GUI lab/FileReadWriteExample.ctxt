@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FileReadWriteExample
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=filePath\ text
+comment2.target=void\ writeTextFile(java.lang.String,\ java.lang.String)
+comment3.params=filePath
+comment3.target=java.lang.String\ readTextFile(java.lang.String)
+comment4.params=filePath\ data
+comment4.target=void\ writeBinaryFile(java.lang.String,\ byte[])
+comment5.params=filePath
+comment5.target=byte[]\ readBinaryFile(java.lang.String)
+numComments=6

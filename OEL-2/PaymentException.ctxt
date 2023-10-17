@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PaymentException
+comment1.params=message
+comment1.target=PaymentException(java.lang.String)
+numComments=2

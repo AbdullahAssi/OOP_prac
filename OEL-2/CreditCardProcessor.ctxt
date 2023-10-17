@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CreditCardProcessor
+comment1.params=
+comment1.target=CreditCardProcessor()
+comment2.params=CC_Number
+comment2.target=CreditCardProcessor(java.lang.String)
+comment3.params=
+comment3.target=void\ validateCreditCard()
+comment4.params=amount
+comment4.target=void\ processPayment(double)
+numComments=5

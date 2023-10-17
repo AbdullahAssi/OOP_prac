@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=arr
+comment1.params=age\ name
+comment1.target=arr2(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

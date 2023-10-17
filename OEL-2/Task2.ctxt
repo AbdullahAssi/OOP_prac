@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Task2
+comment1.params=balance\ annualInterestRate\ debitCard\ creditCard
+comment1.target=BankAccount(double,\ double,\ java.lang.String,\ java.lang.String)
+comment2.params=amount
+comment2.target=void\ deposit(double)
+comment3.params=amount
+comment3.target=void\ withdraw(double)
+comment4.params=
+comment4.target=void\ calcInterest()
+comment5.params=
+comment5.target=void\ monthlyProcess()
+comment6.params=
+comment6.target=void\ yearlyProcess()
+comment7.params=
+comment7.target=double\ getBalance()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

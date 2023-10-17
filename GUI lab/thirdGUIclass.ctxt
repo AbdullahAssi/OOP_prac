@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=thirdGUIclass
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=thirdGUIclass()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

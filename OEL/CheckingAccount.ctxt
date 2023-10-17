@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CheckingAccount
+comment1.params=name\ accountNumber\ balance\ limit
+comment1.target=CheckingAccount(java.lang.String,\ java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=double\ getLimit()
+comment3.params=amount
+comment3.target=void\ withdraw(double)
+numComments=4

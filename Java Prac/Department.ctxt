@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Department
+comment1.params=
+comment1.target=Department()
+comment2.params=departmentId\ departmentName\ isActive
+comment2.target=Department(int,\ java.lang.String,\ boolean)
+comment3.params=departmentId
+comment3.target=Department(int)
+comment4.params=other
+comment4.target=Department(Department)
+comment5.params=
+comment5.target=void\ displayData()
+comment6.params=
+comment6.target=java.lang.String\ getDepartmentName()
+comment7.params=
+comment7.target=boolean\ isDepartmentActive()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

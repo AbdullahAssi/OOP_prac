@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PaymentProcessor
+comment1.params=amount
+comment1.target=void\ processPayment(double)
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CurrentAccount
+comment1.params=initialBalance
+comment1.target=CurrentAccount(int)
+comment2.params=amount
+comment2.target=void\ deposit(int)
+comment3.params=amount
+comment3.target=void\ withdraw(int)
+numComments=4

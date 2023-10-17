@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FormGUI
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ writeDataToFile()
+comment5.params=
+comment5.target=void\ clearFields()
+numComments=6

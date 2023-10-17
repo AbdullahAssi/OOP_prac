@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BitcoinProcessor
+comment1.params=walletDetails
+comment1.target=BitcoinProcessor(java.lang.String)
+comment2.params=
+comment2.target=void\ verifyWallet()
+comment3.params=amount
+comment3.target=void\ processPayment(double)
+numComments=4

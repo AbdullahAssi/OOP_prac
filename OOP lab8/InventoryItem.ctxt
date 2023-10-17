@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InventoryItem
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=double\ getPrice()
+comment3.params=
+comment3.target=int\ getQuantity()
+comment4.params=quantity
+comment4.target=void\ increaseQuantity(int)
+comment5.params=quantity
+comment5.target=void\ decreaseQuantity(int)
+numComments=6

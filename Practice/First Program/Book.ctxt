@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Book
+comment1.params=
+comment1.target=int\ getbookID()
+comment2.params=
+comment2.target=int\ getpages()
+comment3.params=
+comment3.target=int\ getprice()
+comment4.params=newbookID
+comment4.target=void\ setbookID(int)
+comment5.params=newpages
+comment5.target=void\ setpages(int)
+comment6.params=newprice
+comment6.target=void\ setprice(int)
+numComments=7

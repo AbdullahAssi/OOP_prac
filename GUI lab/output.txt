@@ -1,0 +1,3 @@
+This is abdullah zafar         23         543.000000
+this is java program being written 234        546.000000
+ok                             234        67.000000 

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Marks
+comment1.params=a\ b\ c
+comment1.target=double\ getParcentage(double,\ double,\ double)
+comment2.params=a\ b\ c\ d
+comment2.target=double\ getParcentage2student(double,\ double,\ double,\ double)
+numComments=3

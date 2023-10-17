@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LibraryManagementSystem
+comment1.params=
+comment1.target=void\ addRecord()
+comment2.params=
+comment2.target=void\ displayRecords()
+comment3.params=
+comment3.target=void\ deleteRecord()
+comment4.params=
+comment4.target=void\ searchRecord()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

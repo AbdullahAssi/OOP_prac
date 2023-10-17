@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=status
+comment1.target=void\ setStatus(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getStatus()
+comment3.params=name\ Address\ p_num\ e_mail\ status
+comment3.target=Student(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ display()
+numComments=5
